@@ -1,0 +1,46 @@
+{
+    "data": {
+        "NUM_VERSION": "3.0.0.1",
+        "DATE_VERSION": "14/07/2025",
+        "TAILE_VERSION": "1.3 MB"
+,
+        "lines": [
+            {
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "RECHERCHE ACHAT",
+                "DESCRIPTIONS": "CORRECTION BUGS ET FIX COLUMNS DONNEES"
+            },
+			{
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "NOUVEL ACHAT",
+                "DESCRIPTIONS": "CORRECTION CALCUL TAUX DE MARGE"
+            },
+			{
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "NOUVEL ACHAT",
+                "DESCRIPTIONS": "CORRECTION PROBLEME DE CODE BARRE"
+            },
+				{
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "CHIFA",
+                "DESCRIPTIONS": "INTEGRATION MODULE CONSULTATION FACTURES CHIFA"
+            },
+			{
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "CHIFA",
+                "DESCRIPTIONS": "INTEGRATION MEILLEURE MAJORATION"
+            },
+				{
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "CHIFA",
+                "DESCRIPTIONS": "INTEGRATION MEILLEUR LOT DISPONIBLE"
+            },
+			{
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "CHIFA",
+                "DESCRIPTIONS": "CORRECTION PROBLEME -5000 DA"
+            }
+			 ]
+       
+    }
+}
