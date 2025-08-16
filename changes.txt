@@ -1,58 +1,17 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.4",
-        "DATE_VERSION": "12/08/2025",
-        "TAILE_VERSION": "1.38 MB"
+        "NUM_VERSION": "3.0.0.6",
+        "DATE_VERSION": "16/08/2025",
+        "TAILE_VERSION": "1.11 MB"
 ,
         "lines": [
             {
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "ACHAT",
-                "SOUS_MODULE": "RECHERCHE ACHAT",
-                "DESCRIPTIONS": "CORRECTION BUGS ET FIX COLUMNS DONNEES CORRECTION BUGS ET FIX COLUMNS DONNEES CORRECTION BUGS ET FIX COLUMNS DONNEES CORRECTION BUGS ET FIX COLUMNS DONNEES CORRECTION BUGS ET FIX COLUMNS DONNEES"
-            },
-			{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "ACHAT",
-                "SOUS_MODULE": "NOUVEL ACHAT",
-                "DESCRIPTIONS": "CORRECTION CALCUL TAUX DE MARGE"
-            },
-			{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "ACHAT",
-                "SOUS_MODULE": "NOUVEL ACHAT",
-                "DESCRIPTIONS": "CORRECTION PROBLEME DE CODE BARRE"
-            },
-				{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "VENTE",
-                "SOUS_MODULE": "CHIFA",
-                "DESCRIPTIONS": "INTEGRATION MODULE CONSULTATION FACTURES CHIFA"
-            },
-			{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "VENTE",
-                "SOUS_MODULE": "CHIFA",
-                "DESCRIPTIONS": "INTEGRATION MEILLEURE MAJORATION"
-            },
-				{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "VENTE",
-                "SOUS_MODULE": "CHIFA",
-                "DESCRIPTIONS": "INTEGRATION MEILLEUR LOT DISPONIBLE"
-            },
-			{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "VENTE",
-                "SOUS_MODULE": "CHIFA",
-                "DESCRIPTIONS": "CORRECTION PROBLEME -5000 DA"
-            },
-{
- "NUM_VERSION": "3.0.0.4",
-                "MODULE": "STATISTIQUES",
-                "SOUS_MODULE": "CHIFA",
-                "DESCRIPTIONS": "FIN QSP CHRONIQUES"
+ "NUM_VERSION": "3.0.0.6",
+                "MODULE": "LePharm",
+                "SOUS_MODULE": "GENERAL",
+                "DESCRIPTIONS": "Amelioration et correction des bugs"
             }
+			
 			 ]
        
     }
