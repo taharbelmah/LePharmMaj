@@ -1,18 +1,27 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.6",
-        "DATE_VERSION": "16/08/2025",
-        "TAILE_VERSION": "1.11 MB"
-,
+        "NUM_VERSION": "3.0.0.7",
+        "DATE_VERSION": "02/09/2025",
+        "TAILLE_VERSION": "1.11 MB",
         "lines": [
             {
- "NUM_VERSION": "3.0.0.6",
+                "NUM_VERSION": "3.0.0.7",
                 "MODULE": "LePharm",
                 "SOUS_MODULE": "GENERAL",
                 "DESCRIPTIONS": "Amelioration et correction des bugs"
+            },
+            {
+                "NUM_VERSION": "3.0.0.7",
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "Nouveau Achat",
+                "DESCRIPTIONS": "Correction fenetre avoir"
+            },
+            {
+                "NUM_VERSION": "3.0.0.7",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente CHIFA",
+                "DESCRIPTIONS": "Correction Majoration"
             }
-			
-			 ]
-       
+        ]
     }
 }
