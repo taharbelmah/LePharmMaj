@@ -22,6 +22,12 @@
                 "SOUS_MODULE": "Vente CHIFA",
                 "DESCRIPTIONS": "Correction Majoration"
             }
+{
+                "NUM_VERSION": "3.0.0.11",
+                "MODULE": "OPTIMISATIONS & BUGS",
+                "SOUS_MODULE": "GENERAL",
+                "DESCRIPTIONS": "Correction et optimisation "
+            }
         ]
     }
 }
