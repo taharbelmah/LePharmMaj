@@ -1,11 +1,11 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.16",
+        "NUM_VERSION": "3.0.0.17",
         "DATE_VERSION": "25/12/2025",
         "TAILLE_VERSION": "4.11 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.16",
+                "NUM_VERSION": "3.0.0.17",
                 "MODULE": "LePharm",
                 "SOUS_MODULE": "GENERAL",
                 "DESCRIPTIONS": "Amelioration et correction des bugs"
