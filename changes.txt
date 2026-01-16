@@ -1,13 +1,25 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.20",
-        "DATE_VERSION": "15/01/2026",
-        "TAILLE_VERSION": "4.11 MB",
+        "NUM_VERSION": "3.0.0.21",
+        "DATE_VERSION": "17/01/2026",
+        "TAILLE_VERSION": "4.11",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.20",
-                "MODULE": "LePharm",
-                "SOUS_MODULE": "GENERAL",
+                "NUM_VERSION": "3.0.0.21",
+                "MODULE": "LISTES",
+                "SOUS_MODULE": "Liste Fournisseurs",
+                "DESCRIPTIONS": "CORRECTION AFFICHAGE PAYEMENTS"
+            },
+            {
+                "NUM_VERSION": "3.0.0.21",
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "Nouveau Achat",
+                "DESCRIPTIONS": "FACTURES ELECTRONIQUE ( UPROMEDIC, HYDRAPHARM, BIOREAL)"
+            },
+            {
+                "NUM_VERSION": "3.0.0.21",
+                "MODULE": "PARAMETRES",
+                "SOUS_MODULE": "Paramétres",
                 "DESCRIPTIONS": "Amelioration et correction des bugs"
             }
         ]
