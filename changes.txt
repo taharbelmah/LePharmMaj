@@ -1,26 +1,44 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.21",
-        "DATE_VERSION": "17/01/2026",
-        "TAILLE_VERSION": "4.11",
+        "NUM_VERSION": "3.0.0.22",
+        "DATE_VERSION": "21/01/2025",
+        "TAILLE_VERSION": "4.29 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.21",
-                "MODULE": "LISTES",
-                "SOUS_MODULE": "Liste Fournisseurs",
-                "DESCRIPTIONS": "CORRECTION AFFICHAGE PAYEMENTS"
+                "NUM_VERSION": "3.0.0.22",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente CHIFA",
+                "DESCRIPTIONS": "Integration API CASNOS"
             },
             {
-                "NUM_VERSION": "3.0.0.21",
+                "NUM_VERSION": "3.0.0.22",
+                "MODULE": "PARAMETRES",
+                "SOUS_MODULE": "Paramétres logiciel",
+                "DESCRIPTIONS": "Amelioration et correction des bugs"
+            },
+            {
+                "NUM_VERSION": "3.0.0.22",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente CHIFA",
+                "DESCRIPTIONS": "Option remboursement vignettes des autres pharmacies"
+            },
+            {
+                "NUM_VERSION": "3.0.0.22",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente Libre",
+                "DESCRIPTIONS": "Indicateur type d'importation des produits ( retour, dépannage, xtra)"
+            },
+            {
+                "NUM_VERSION": "3.0.0.22",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente CHIFA",
+                "DESCRIPTIONS": "Indicateur type d'importation des produits ( retour, dépannage, xtra)"
+            },
+            {
+                "NUM_VERSION": "3.0.0.22",
                 "MODULE": "ACHAT",
                 "SOUS_MODULE": "Nouveau Achat",
-                "DESCRIPTIONS": "FACTURES ELECTRONIQUE ( UPROMEDIC, HYDRAPHARM, BIOREAL)"
-            },
-            {
-                "NUM_VERSION": "3.0.0.21",
-                "MODULE": "PARAMETRES",
-                "SOUS_MODULE": "Paramétres",
-                "DESCRIPTIONS": "Amelioration et correction des bugs"
+                "DESCRIPTIONS": "Amelioration l'importation des factures électroniques"
             }
         ]
     }
