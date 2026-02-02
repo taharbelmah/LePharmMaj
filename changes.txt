@@ -1,14 +1,26 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.23",
-        "DATE_VERSION": "21/01/2026",
-        "TAILLE_VERSION": "4.89",
+        "NUM_VERSION": "3.0.0.24",
+        "DATE_VERSION": "03/02/2026",
+        "TAILLE_VERSION": "4.51 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.23",
-                "MODULE": "GENERAL",
-                "SOUS_MODULE": "BUGS",
+                "NUM_VERSION": "3.0.0.24",
+                "MODULE": "LePharm",
+                "SOUS_MODULE": "GENERAL",
                 "DESCRIPTIONS": "Amelioration et correction des bugs"
+            },
+            {
+                "NUM_VERSION": "3.0.0.24",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente CHIFA",
+                "DESCRIPTIONS": "Nouvelle Fonctionalités vérification enligne "
+            },
+            {
+                "NUM_VERSION": "3.0.0.24",
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "Facture éléctronique",
+                "DESCRIPTIONS": "Amélioration et correction problème ht=0"
             }
         ]
     }
