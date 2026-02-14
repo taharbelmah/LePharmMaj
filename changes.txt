@@ -1,26 +1,26 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.24",
-        "DATE_VERSION": "03/02/2026",
-        "TAILLE_VERSION": "4.51 MB",
+        "NUM_VERSION": "3.0.0.25",
+        "DATE_VERSION": "14/02/2026",
+        "TAILLE_VERSION": "4.11 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.24",
-                "MODULE": "LePharm",
-                "SOUS_MODULE": "GENERAL",
-                "DESCRIPTIONS": "Amelioration et correction des bugs"
+                "NUM_VERSION": "3.0.0.25",
+                "MODULE": "STATISTIQUES",
+                "SOUS_MODULE": "Recettes Journalières",
+                "DESCRIPTIONS": "Nouvelle fonctionnalité"
             },
             {
-                "NUM_VERSION": "3.0.0.24",
-                "MODULE": "VENTE",
-                "SOUS_MODULE": "Vente CHIFA",
-                "DESCRIPTIONS": "Nouvelle Fonctionalités vérification enligne "
+                "NUM_VERSION": "3.0.0.25",
+                "MODULE": "STATISTIQUES",
+                "SOUS_MODULE": "Analyse Vendeurs",
+                "DESCRIPTIONS": "Nouvelle fonctionnalité"
             },
             {
-                "NUM_VERSION": "3.0.0.24",
-                "MODULE": "ACHAT",
-                "SOUS_MODULE": "Facture éléctronique",
-                "DESCRIPTIONS": "Amélioration et correction problème ht=0"
+                "NUM_VERSION": "3.0.0.25",
+                "MODULE": "STATISTIQUES",
+                "SOUS_MODULE": "Rotation produits",
+                "DESCRIPTIONS": "Nouvelle fonctionnalité"
             }
         ]
     }
