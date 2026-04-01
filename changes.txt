@@ -1,26 +1,26 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.25",
-        "DATE_VERSION": "14/02/2026",
-        "TAILLE_VERSION": "4.11 MB",
+        "NUM_VERSION": "3.0.0.26",
+        "DATE_VERSION": "02/04/2026",
+        "TAILLE_VERSION": "2.89 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.25",
-                "MODULE": "STATISTIQUES",
-                "SOUS_MODULE": "Recettes Journalières",
-                "DESCRIPTIONS": "Nouvelle fonctionnalité"
+                "NUM_VERSION": "3.0.0.26",
+                "MODULE": "VENTE",
+                "SOUS_MODULE": "Vente CHIFA",
+                "DESCRIPTIONS": "Amelioration et correction des bugs"
             },
             {
-                "NUM_VERSION": "3.0.0.25",
-                "MODULE": "STATISTIQUES",
-                "SOUS_MODULE": "Analyse Vendeurs",
-                "DESCRIPTIONS": "Nouvelle fonctionnalité"
+                "NUM_VERSION": "3.0.0.26",
+                "MODULE": "ACHAT",
+                "SOUS_MODULE": "Journal des achats",
+                "DESCRIPTIONS": "Améliorations"
             },
             {
-                "NUM_VERSION": "3.0.0.25",
-                "MODULE": "STATISTIQUES",
-                "SOUS_MODULE": "Rotation produits",
-                "DESCRIPTIONS": "Nouvelle fonctionnalité"
+                "NUM_VERSION": "3.0.0.26",
+                "MODULE": "CHIFA",
+                "SOUS_MODULE": "Liste des bordereau",
+                "DESCRIPTIONS": "SUIVI DES BORDEREAUX PAYES ET NON PAYES ET FACTURES REJETS ET PAYES ET NON PAYEES ET PAYÉE PARTIELLEMENT"
             }
         ]
     }
