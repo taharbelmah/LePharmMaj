@@ -1,23 +1,23 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.26",
+        "NUM_VERSION": "3.0.0.27",
         "DATE_VERSION": "02/04/2026",
         "TAILLE_VERSION": "2.89 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.26",
+                "NUM_VERSION": "3.0.0.27",
                 "MODULE": "VENTE",
                 "SOUS_MODULE": "Vente CHIFA",
                 "DESCRIPTIONS": "Amelioration et correction des bugs"
             },
             {
-                "NUM_VERSION": "3.0.0.26",
+                "NUM_VERSION": "3.0.0.27",
                 "MODULE": "ACHAT",
                 "SOUS_MODULE": "Journal des achats",
                 "DESCRIPTIONS": "Améliorations"
             },
             {
-                "NUM_VERSION": "3.0.0.26",
+                "NUM_VERSION": "3.0.0.27",
                 "MODULE": "CHIFA",
                 "SOUS_MODULE": "Liste des bordereau",
                 "DESCRIPTIONS": "SUIVI DES BORDEREAUX PAYES ET NON PAYES ET FACTURES REJETS ET PAYES ET NON PAYEES ET PAYÉE PARTIELLEMENT"
