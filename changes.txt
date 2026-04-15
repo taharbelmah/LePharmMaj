@@ -1,11 +1,11 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.25",
-        "DATE_VERSION": "08/04/2026",
-        "TAILLE_VERSION": "4.95 MB",
+        "NUM_VERSION": "3.0.0.29",
+        "DATE_VERSION": "15/04/2026",
+        "TAILLE_VERSION": "7.95 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.25",
+                "NUM_VERSION": "3.0.0.29",
                 "MODULE": "VENTE",
                 "SOUS_MODULE": "Vente Libre",
                 "DESCRIPTIONS": "Amelioration et correction des bugs"
