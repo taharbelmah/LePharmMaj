@@ -1,14 +1,14 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.29",
-        "DATE_VERSION": "15/04/2026",
+        "NUM_VERSION": "3.0.0.30",
+        "DATE_VERSION": "15/09/2026",
         "TAILLE_VERSION": "7.95 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.29",
-                "MODULE": "VENTE",
-                "SOUS_MODULE": "Vente Libre",
-                "DESCRIPTIONS": "Amelioration et correction des bugs"
+                "NUM_VERSION": "3.0.0.30",
+                "MODULE": "GENERALE",
+                "SOUS_MODULE": "Amélioration",
+                "DESCRIPTIONS": "Nouvelle fonctionalité: Mode code validation statique: parametre logiciel - parametre vente - activer mode session statique et definir temps d'activation"
             }
         ]
     }
