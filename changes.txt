@@ -1,11 +1,11 @@
 {
     "data": {
-        "NUM_VERSION": "3.0.0.33",
+        "NUM_VERSION": "3.0.0.34",
         "DATE_VERSION": "26/10/2026",
         "TAILLE_VERSION": "17.95 MB",
         "lines": [
             {
-                "NUM_VERSION": "3.0.0.33",
+                "NUM_VERSION": "3.0.0.34",
                 "MODULE": "GENERALE",
                 "SOUS_MODULE": "Amélioration",
                 "DESCRIPTIONS": "Nouvelle fonctionalité: OUTILS : Edition => entree : suppression les entries vides"
